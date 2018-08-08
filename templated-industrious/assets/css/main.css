@@ -77,7 +77,7 @@ mark {
   background-color: transparent;
   color: inherit; }
 
-input::-moz-focus-inner {
+input:-moz-focus-inner {
   border: 0;
   padding: 0; }
 
